@@ -1,0 +1,12 @@
+{
+  "name": "✨𝓜𝓪𝓰𝓲𝓬✨",
+  "version": "1.0.0",
+  "description": "My WhatsApp bot",
+  "main": "mainbot.js",
+  "scripts": {
+    "start": "node mainbot.js"
+  },
+  "keywords": [],
+  "author": "✨𝓜𝓪𝓰𝓲𝓬✨",
+  "license": "ISC"
+}
